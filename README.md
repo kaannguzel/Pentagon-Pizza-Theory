@@ -71,7 +71,7 @@ Usage
 
 Run the main script:
 
-python main2.py
+python main.py
 
 The program will:
 	1.	Open Google Maps using a persistent browser session
