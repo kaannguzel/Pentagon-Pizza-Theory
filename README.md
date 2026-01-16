@@ -22,7 +22,7 @@ Project Structure
 
 Pentagon-Pizza-Theory/
 │
-├── main2.py        # Main automation and analysis script
+├── main.py        # Main automation and analysis script
 ├── notlar.txt      # Notes / observations (optional)
 ├── README.md       # Project documentation
 ├── .gitignore      # Excludes sensitive and environment-specific files
